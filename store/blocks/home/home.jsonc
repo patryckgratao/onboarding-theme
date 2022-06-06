@@ -79,8 +79,8 @@
       "isFullModeStyle": false,
       "textPosition": "left",
       "imageUrl": "https://storecomponents.vteximg.com.br/arquivos/banner-infocard2.png",
-      "headline": "Clearance Sale",
-      "callToActionText": "DISCOVER",
+      "headline": "Onboarding Gustavo",
+      "callToActionText": "Click Here",
       "callToActionUrl": "/sale/d",
       "blockClass": "info-card-home",
       "textAlignment": "center"
